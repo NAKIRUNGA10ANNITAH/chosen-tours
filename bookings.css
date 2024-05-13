@@ -1,0 +1,57 @@
+
+body{
+    padding: 50px 0;
+    text-align: center;
+    font-style :transform-style;
+    background-position: 0rem;
+    background-color: yellow;
+    background:linear-gradient(green,yellow);
+  }
+  
+  .bookings h2 {
+    color: #0077cc;
+
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style :transform-style;
+    background-position: 0rem;
+    background-color:black;
+    font-size: 24px;
+    color:whitesmoke;
+width: 400px;
+display: flex;
+flex-direction: column;
+
+  }
+  
+  .bookings label {
+    margin: 10px 0;
+    color: #0077cc;
+  }
+  
+  .bookings select, #bookings input[type="date"], #bookings input[type="number"], #bookings input[type="submit"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    font-size: 24px;
+    color:red;
+    height: 100px;
+
+  }
+  
+  .bookings input[type="submit"] {
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+     font-size: 24px;
+    color:red;
+
+  }
+  

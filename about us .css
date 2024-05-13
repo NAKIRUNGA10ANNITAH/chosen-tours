@@ -1,0 +1,49 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background:linear-gradient(blue,yellow,red,violet);
+  text-decoration: none;
+
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 10px 0;
+  
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.about {
+  text-align: center;
+  padding: 0;
+}
+
+footer {
+  background-color: #333;
+  color: black;
+  text-align: center;
+  background-color: tomato;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
